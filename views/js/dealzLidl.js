@@ -84,30 +84,25 @@ function basket() {
 
   var subjectObject = {
     "Bakery": {
-      "Brazil x Saudi Arabia": ["€ 120.00"],
-      "Russia x Uruguay": ["€ 120.00"],
-      "Kit Pack A": ["€ 80.00"]    
+      "Butter pain ou chocolat": ["€ 0.49"],
+      "Petit pain": ["€ 0.49"],
+      "White sourdough boule": ["€ 1.29"]    
     },
     "Butchery": {
-      "Morocco x Qatar": ["€ 120.00"],
-      "Portugal x Spain": ["€ 120.00"],
-      "Kit Pack B": ["€ 80.00"] 
+      "MDeluxe Smoked Haddock MIM Fishcakes": ["€ 1.99"],
+      "Deluxe Scotch Beef Steak Quarterpounders": ["€ 3.39"],
+      "KDeluxe Free Range Chicken": ["€ 3.29"] 
     },
     "Beers": {
-      "France x Autralia": ["€ 120.00"],
-      "Argentina x Iceland": ["€ 120.00"],
-      "Kit Pack C": ["€ 80.00"] 
+      "Budweiser 4x400": ["€ 3.97"],
+      "Stella Artois Premium Lager": ["€ 5.99"],
+      "Heineken": ["€ 0.70"] 
     },
   "Wine Dealz": {
     "Ireland x Denmark": ["€ 120.00"],
     "Belgium x England": ["€ 120.00"],
     "Kit Pack D": ["€ 80.00"] 
   },
-  "Group E": {
-    "Costa Rica x Germany": ["€ 120.00"],
-    "Switzerland x Japan": ["€ 120.00"],
-    "Kit Pack E": ["€ 80.00"] 
-  }
   
   }
   window.onload = function() {
