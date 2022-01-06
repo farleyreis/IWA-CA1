@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <section name="Bakery">
+    <entry>
+      <matches>Butter pain ou chocolat</matches>
+      <price>0.49</price>
+    </entry>
+    <entry>
+      <matches>Petit pain</matches>
+      <price>0.49</price>
+    </entry>
+    <entry kitpack="true">
+      <matches>White sourdough boule</matches>
+      <price>1.29</price>
+    </entry>
+  </section>
+  <section name="Butchery">
+    <entry>
+      <matches>Deluxe Smoked Haddock MIM Fishcakes</matches>
+      <price>1.99</price>
+    </entry>
+    <entry>
+      <matches>Deluxe Scotch Beef Steak Quarterpounders</matches>
+      <price>3.39</price>
+    </entry>
+    <entry kitpack="true">
+      <matches>KDeluxe Free Range Chicken</matches>
+      <price>3.29</price>
+    </entry>
+  </section>
+  <section name="Beers">
+    <entry>
+      <matches>Budweiser 4x400</matches>
+      <price>3.97</price>
+    </entry>
+    <entry>
+      <matches>AStella Artois Premium Lager</matches>
+      <price>5.99</price>
+    </entry>
+    <entry kitpack="true">
+      <matches>Heineken</matches>
+      <price>0.79</price>
+    </entry>
+  </section>
+  <section name="Wine Dealz">
+    <entry>
+      <matches>Château Bonneau Haut-Médoc</matches>
+      <price>9.99</price>
+    </entry>
+    <entry>
+      <matches>Chablis Premier Cru Les Muses</matches>
+      <price>15.99</price>
+    </entry>
+    <entry kitpack="true">
+      <matches>Salneval Albariño</matches>
+      <price>7.99</price>
+    </entry>
+  </section>
+
+</menu>
