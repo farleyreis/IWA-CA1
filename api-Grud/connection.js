@@ -6,7 +6,7 @@ async function main() {
      * Connection URI. Update <username>, <password>, and <your-cluster-url> to reflect your cluster.
      * See https://docs.mongodb.com/ecosystem/drivers/node/ for more details
      */
-    const uri = "mongodb+srv://demo:ribcux-pezgyb-tobfY2@cluster0.gvymh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+     const uri = "mongodb+srv://admin:12345@cluster0.75uom.mongodb.net/?retryWrites=true&w=majority";
 
     /**
      * The Mongo Client you will use to interact with your database
